@@ -1,0 +1,27 @@
+# predict.courses — Education & Online Learning Prediction Markets
+
+> Real-time prediction markets for education & online learning. Bet on outcomes, see live odds, and win. Free to play with shared pools powered by Firebase.
+
+
+predict.courses is a prediction market platform focused on education & online learning. Users can bet YES or NO on curated markets with real-time shared pools. Features live odds, countdown timers, trending markets, and social sharing. Part of the Predict Network — 18 niche prediction market sites.
+
+
+## Pages
+
+- [Homepage — Education & Online Learning prediction markets with live odds](https://predict.courses)
+- [Markets — Active education & online learning prediction markets](https://predict.courses#markets)
+
+
+## Keywords
+
+prediction market, education & online learning, betting, odds, forecast, predict.courses
+
+
+## Related Sites
+
+- [Spunk.Bet — Free Crypto Casino](https://spunk.bet)
+- [Stimulant Wiki — Nootropic Encyclopedia](https://stimulant.wiki)
+- [Stimulant Doctor — ADHD & Focus Guide](https://stimulant.doctor)
+- [Stimulant Shop — Buy Nootropics](https://stimulant.shop)
+- [@SpunkArt13 on X](https://x.com/SpunkArt13)
+- [SpunkArt.com](https://spunkart.com)
