@@ -2,37 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.courses/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.courses/privacy.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://predict.courses/blog-ai-certifications-guide.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.courses/blog-best-ai-ml-courses-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.courses/blog-best-data-science-courses-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.courses/blog-best-online-courses-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.courses/blog-best-online-language-courses-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.courses/blog-best-project-management-certifications-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.courses/blog-free-learning-resources-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.courses/blog-learn-python-free-guide-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.courses/blog-most-valuable-certifications-2026.html</loc>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://predict.courses/blog-predictions-2026.html</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
